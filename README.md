@@ -20,10 +20,10 @@ Study landing Website by Sergei Rubets (ITVDN)
 
 ## Інструкція для старту проекту:
 * Клонуйте данний репозиторий
-> git clone https://github.com/sergeyamator/itvdn-landing.git 
+> git clone https://github.com/YurKo22/Business.git 
 
-* Запустить команду npm install в терминале. Данная команда установит все пакеты, которые указанны в файле 
-packege.json, а также все их зависимости
+* Запустити команду npm install в терминалі. Данна команда встановить всі пакети, вказані у файлі 
+packege.json, а також всі їхні залежності
 
 
 ## Домашнее задание
