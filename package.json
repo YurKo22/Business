@@ -1,0 +1,19 @@
+{
+  "name": "business",
+  "version": "1.0.0",
+  "description": "Study landing Website by Sergei Rubets (ITVDN)\r <!-- ------------------------------------------------------------ -->\r # Курс верстки лендінга від освітнього каналу ITVDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YurKo22/Business.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YurKo22/Business/issues"
+  },
+  "homepage": "https://github.com/YurKo22/Business#readme"
+}

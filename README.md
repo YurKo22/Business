@@ -24,18 +24,3 @@ Study landing Website by Sergei Rubets (ITVDN)
 
 * Запустити команду npm install в терминалі. Данна команда встановить всі пакети, вказані у файлі 
 packege.json, а також всі їхні залежності
-
-
-## Домашнее задание
-1. Git
-- git status
-- git add
-- git commit -m "some comment"
-- git push
-- git branch
-- git checkout
-- git merge
-
-2. Gulp
-- Попрактиковаться с установкой галпа и его пакетов
-- autoprefixer и sourcemaps Разобраться что это и установить в проект
