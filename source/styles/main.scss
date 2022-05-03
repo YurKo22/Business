@@ -1,3 +1,4 @@
-body {
-  background: rgb(176, 35, 35);
-}
+@import "../../node_modules/font-awesome/scss/font-awesome";
+@import "../../node_modules/normalize.scss/normalize";
+
+@import "sections/header.scss"
