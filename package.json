@@ -30,6 +30,5 @@
   "dependencies": {
     "font-awesome": "^4.7.0",
     "normalize.scss": "^0.1.0"
-
-}
+  }
 }
