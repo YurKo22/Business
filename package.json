@@ -4,7 +4,8 @@
   "description": "Study landing Website by Sergei Rubets (ITVDN)\r <!-- ------------------------------------------------------------ -->\r # Курс верстки лендінга від освітнього каналу ITVDN",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,13 @@
     "gulp.spritesmith": "^6.12.1",
     "rimraf": "^3.0.2",
     "sass": "^1.51.0"
+  },
+  "dependencies": {
+<<<<<<< Updated upstream
+    "font-awesome": "^4.7.0",
+    "normalize.scss": "^0.1.0"
+=======
+    "@prettier/plugin-pug": "^2.0.0"
+>>>>>>> Stashed changes
   }
 }
