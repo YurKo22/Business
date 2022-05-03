@@ -1,3 +1,14 @@
+<<<<<<< Updated upstream
+@import "../../node_modules/font-awesome/scss/font-awesome";
+@import "../../node_modules/normalize.scss/normalize";
+
+@import "sections/header.scss"
+=======
 body {
-  background: rgb(176, 35, 35);
+    background: rgb(35, 176, 42);
+    color: rgb(95, 91, 138);
 }
+p {
+    text-decoration: dotted;
+}
+>>>>>>> Stashed changes
