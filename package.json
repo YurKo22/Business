@@ -28,11 +28,8 @@
     "sass": "^1.51.0"
   },
   "dependencies": {
-<<<<<<< Updated upstream
     "font-awesome": "^4.7.0",
     "normalize.scss": "^0.1.0"
-=======
-    "@prettier/plugin-pug": "^2.0.0"
->>>>>>> Stashed changes
-  }
+
+}
 }
