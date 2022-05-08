@@ -1,6 +1,6 @@
 .hero{
    min-height: 59px;
-   padding: 174px 0;
+   padding: 175px 0 225px;
    text-align: center;
    color: #fff;
    background: #ccc url('../images/hero-bg.jpg') center/cover no-repeat;
@@ -13,12 +13,18 @@
 
    &__title{
       margin-top: 0;
-      margin-bottom: 27px;
+      margin-bottom: 20px;
       font-family: $ff-main-light;
+      font-size: 1.95rem;
+
+      @media (max-width: 599px){
+         padding: 100px 20px;
+         min-height: inherit;
+      }
    }
 
    .button--text-uppercase{
-      padding: 21px 41px;
+      padding: 20px 34px;
       border-radius: 8px;
       font-size: 1.5rem;
       font-weight: bold;

@@ -1,7 +1,12 @@
 .work {
-  padding: 110px 0;
+  padding: 107px 0;
   background: #de2b24;
   color: #fff;
+
+  @media (max-width: 985px) {
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
 
   &__list {
     display: flex;
@@ -15,7 +20,7 @@
       background: #fff;
     }
   }
-  
+
   &__item {
     height: 256px;
     width: 256px;
@@ -47,7 +52,7 @@
     height: 100%;
   }
 
-  &__description{
+  &__description {
     font-size: 1rem;
   }
 }
