@@ -11,8 +11,7 @@ const sourcemaps = require("gulp-sourcemaps");
 
 /* -------- js  -------- */
 gulp.task("js", function () {
-  return gulp
-    .src(["source/js/form.js", "source/js/main.js", "source/js/navigation.js"])
+  return gulp.src(["source/js/form.js", "source/js/main.js", "source/js/navigation.js"])
     .pipe(sourcemaps.init())
     .pipe(concat("main.min.js"))
     .pipe(uglify())
